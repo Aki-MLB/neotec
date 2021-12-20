@@ -1,0 +1,134 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta name="viewport" content="width=device-width, maximum-scale=1, initial-scale=1, user-scalable=no">
+<meta name="format-detection" content="telephone=no">
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.1.0 for Windows">
+<meta name="justsystems:DeviceType" content="SmartPhoneV">
+<title>会社方針</title>
+<link rel="stylesheet" href="hpbsmtparts.css" type="text/css" id="hpbsmtparts">
+<link rel="stylesheet" href="container_00_20.css" type="text/css" id="hpbsmtcontainer">
+<link rel="stylesheet" href="main_01_20.css" type="text/css" id="hpbsmtmain">
+<link rel="stylesheet" href="user.css" type="text/css" id="hpbsmtuser">
+</head>
+<body id="hpb-smt-template-01-20-01" class="hpb-layoutset-02">
+<div id="hpb-skip"><a href="#hpb-title">本文へスキップ</a></div>
+<!-- container -->
+<div id="hpb-container">
+  <!-- header -->
+  <div id="hpb-header">
+    <div id="hpb-headerMain">
+      <h1>株式会社ネオテックは○○○○○○○○を専門とする○○○○○○○○会社です。</h1>
+    </div>
+    <div id="hpb-headerLogo"><a href="#" style="background-image : url(GIF/2_kyoutu/NEOTEC_logonew11.png);">株式会社ネオテック</a></div>
+  </div>
+  <!-- header end --><!-- inner -->
+  <div id="hpb-inner">
+    <!-- title -->
+    <div id="hpb-title">
+      <h2 style="background-image : url(GIF/2_kyoutu/Banner.gif);">会社方針<span class="en">HEADLINE</span></h2>
+    </div>
+    <!-- title end --><!-- main -->
+    <div id="hpb-main">
+      <div class="hpb-section">
+        <DIV id="hpb-main">
+          <DIV id="concept" style="text-align: center;">
+            <div class="hpb-section" style="text-align : left;">
+              <H3 style="text-align: left;">会社ポリシー</H3>
+              環境にやさしい設備<br>
+              <br>
+              エネルギーを無駄に消費させない、それは「換気の自動制御（コントロール）です」をキーワードに換気のコンサルティングを行います。
+              <HR>
+            </div>
+            <DIV class="hpb-section">
+              <H3 style="text-align: left;">ネオテック業務案内</H3>
+              <HR>
+              <img src="GIF/3_concept/oshigoto11.jpg" width="300" height="225" border="0"></DIV>
+            <div class="hpb-section" style="text-align : center;">
+              <H3 style="text-align: left;">w-eco概念</H3>
+              <table border="0" style="border-style:none;" border-color : #cccccc;">
+                <tbody>
+                  <tr style="border-style:none;">
+                    <td style="border-style:none;
+	width : 219px;
+	text-align : center;
+" vertical-align : middle;text-align : left;width : 446px;" colspan="2"><img src="../GIF/3_concept/waste.png" width="150" height="150" border="0"></td>
+                    <td style="border-style:none;
+	text-align : center;
+	width : 71px;
+" vertical-align : bottom;text-align : center; : 133px;"><img src="../GIF/3_concept/energy.png" width="150" height="150" border="0"></td>
+                  </tr>
+                  <tr style="border-style:none;">
+                    <td style="border-style:none;
+	width : 219px;
+	text-align : center;
+" vertical-align : middle;text-align : left;width : 446px;" colspan="2">&nbsp;<img src="../GIF/3_concept/control.png" width="150" height="150" border="0"></td>
+                    <td style="border-style:none;
+	text-align : center;
+	width : 71px;
+" vertical-align : bottom;text-align : center; : 133px;"><img src="../GIF/3_concept/observation.png" width="150" height="150" border="0"></td>
+                  </tr>
+                </tbody>
+              </table>
+              <BR>
+              <BR>
+              無駄なエネルギーを制御・監視し、よい環境でいることが<BR style="clear: none;">
+              人にも機械にも経済的にも、そして自然にもやさしいエコ活動であることを意味します<BR>
+              <BR>
+              <BR>
+            </div>
+            <DIV class="hpb-section">
+              <h3 style="text-align : left;">ELシステム理念</h3>
+              <img src="GIF/3_concept/EL11.jpg" width="300" height="225" border="0"></DIV>
+          </DIV>
+        </DIV>
+      </div>
+    </div>
+    <!-- main end --><!-- navi -->
+    <div id="hpb-nav">
+      <h3 class="hpb-c-index">ナビゲーション</h3>
+      　　
+      <ul>
+        <li id="nav-concept"><span class="ja"><a href="concept.html" target="_self">会社方針</a></span><span class="en">CONCEPT</span> 
+        
+        <li id="nav-service"><a href="kanki_menu.html" style="background-image : url(GIF/1_index/S_oshiete.gif);" target="_self" title="換気について"><span class="ja">換気について</span><span class="en">SERVICE&amp;PRODUCTS</span></a> 
+        
+        <li id="nav-news"><a href="ELS_sp.html" style="background-image : url(GIF/1_index/S_ELB.gif);" target="_self" title="ELシステム"><span class="ja">ELシステム</span><span class="en">NEWS&amp;FAQ</span></a> 
+        
+        <li id="nav-company"><a href="company.html" target="_self" title="会社概要"><span class="ja">会社概要</span><span class="en">COMPANY</span></a> 
+        
+        <li id="nav-recruit"><a href="ELmanga.html" style="background-image : url(GIF/1_index/S_ELmanga.gif);" target="_self" title="絵で見て解るELシステム"><span class="ja">絵で見て解るELシステム</span><span class="en">RECRUIT</span></a> 
+        
+        <li id="nav-access"><a href="syoukoushiki_filter.html" style="background-image : url(GIF/1_index/S_syoukoushiki.gif);" target="_self" title="昇降式フィルター"><span class="ja">昇降式フィルター</span><span class="en">ACCESS</span></a> 
+        
+        <li id="nav-contact"><a href="contact.html" title="お問い合わせ" target="_self"><span class="ja">お問い合わせ</span><span class="en">CONTACT&nbsp;US</span></a> 
+      
+      </ul>
+    </div>
+    <!-- navi end -->
+  </div>
+  <!-- inner end --><!-- footer -->
+  <div id="hpb-footer">
+    <div id="hpb-footerNav">
+      <ul>
+        <li id="home"><a href="index.html" target="_self"><span class="ja">ホーム</span><span class="en">HOME</span></a> 
+        <li id="pagetop"><a href="#hpb-container"><span class="ja">トップ</span><span class="en">TOP</span></a> 
+      </ul>
+    </div>
+    <div id="hpb-footerExtra1">
+      <h3 class="hpb-c-index">サブナビゲーション</h3>
+      <ul>
+        <li><a href="#">プライバシーポリシー</a> 
+    </ul>
+    </div>
+    <div id="hpb-footerMain">
+      <p>copyright&copy;2020&nbsp;NEOTEC&nbsp;all&nbsp;rights&nbsp;reserved.</p>
+    </div>
+  </div>
+  <!-- footer end -->
+</div>
+<!-- container end --></body>
+</html>
